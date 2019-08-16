@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: -498161800001825481
     second: snake_7
+  - first:
+      213: 8314111628943662148
+    second: snake_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -160,7 +163,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09207c1ef86dc1a4fbbc721a4687f0bb
+      spriteID: 4b17bf96b5833784db32970e82f70bd8
       internalID: -8688392260014441854
       vertices: []
       indices: 
@@ -181,7 +184,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73deb72e9d03e6341bf4069e05a6a0b0
+      spriteID: 200a90c50e9864543b2c91f8d76f66fc
       internalID: 8964828684589300045
       vertices: []
       indices: 
@@ -202,7 +205,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ad09acce53af4b43ab17d05c91df11d
+      spriteID: ceb9c9adadd01ac45aced063aca52603
       internalID: -3946499141775193120
       vertices: []
       indices: 
@@ -223,7 +226,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8dbf8fe2e6391c343b68bccdd5802fe9
+      spriteID: 3198974f363c48443957b3a363e7188d
       internalID: 4479720658561634729
       vertices: []
       indices: 
@@ -244,7 +247,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52389aba9a55e364695914b0796f58cf
+      spriteID: f156c3d0be2a02d4fa6f1c6f58cc06fc
       internalID: -3399037153431705778
       vertices: []
       indices: 
@@ -265,7 +268,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76a6495ca31d0eb489ad5acc48fa23a0
+      spriteID: 422d2c3d8f278fd42b3da186ade9b56e
       internalID: -4978297785292227087
       vertices: []
       indices: 
@@ -286,7 +289,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9898c8c5c85572544946109b928d2557
+      spriteID: 6ee63acd3613b1c4bb84664ac0caf84a
       internalID: 5910609365090145371
       vertices: []
       indices: 
@@ -307,8 +310,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b22f59454c910544a0677669889ceea
+      spriteID: 990f74d87f396eb47a2c63f2c7137c70
       internalID: -498161800001825481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefee948d4d45274aa8ecc44d3707074
+      internalID: 8314111628943662148
       vertices: []
       indices: 
       edges: []

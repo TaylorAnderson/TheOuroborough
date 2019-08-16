@@ -1,0 +1,11 @@
+need data structure to contain collectibles
+
+what are collectibles? 
+
+- a name
+- an image (we can maybe do a comparison here)
+- a number
+
+sol 1: 
+we have an interface called a Collectible, which defines the things above.
+for each collectible, we have a new class that implements that interface
